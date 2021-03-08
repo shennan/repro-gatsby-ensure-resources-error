@@ -1,0 +1,29 @@
+{
+  "name": "my-gatsby-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My Gatsby Site",
+  "author": "shennan",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "gatsby": "^3.0.1",
+    "https-browserify": "^1.0.0",
+    "mobx": "^6.1.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "redoc": "^2.0.0-rc.48",
+    "stream-http": "^3.1.1",
+    "styled-components": "^5.2.1",
+    "to-arraybuffer": "^1.0.1"
+  }
+}
